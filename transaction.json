@@ -1,0 +1,32 @@
+[
+	{
+		"id" : 1,
+		"amount" : 100,
+		"bankId" : 4
+	},
+	{
+		"id" : 2,
+		"amount" : 200,
+		"bankId" : 3
+	},
+	{
+		"id" : 3,
+		"amount" : 300,
+		"bankId" : 1
+	},
+	{
+		"id" : 4,
+		"amount" : 400,
+		"bankId" : 5
+	},
+	{
+		"id" : 5,
+		"amount" : 500,
+		"bankId" : 2
+	},
+	{
+		"id" : 6,
+		"amount" : 1500,
+		"bankId" : 2
+	}
+]
